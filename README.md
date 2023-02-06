@@ -3,3 +3,6 @@
 [F-String formatting cheat sheet](https://fstring.help/cheat/)
 
 [Create Mac apps from command line scripts](http://www.sveinbjorn.org/platypus/)
+
+
+[Historical weather API](https://open-meteo.com/en/docs/historical-weather-api)
